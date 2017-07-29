@@ -1,22 +1,46 @@
 ---
 layout: home
 paginate: true
-alt_title: "Basically Basic"
-sub_title: "Your new default Jekyll theme"
+alt_title: "JUNO"
+sub_title: "Visualise data in the natural way"
 image: /assets/images/boards_1600.png
 introduction: |
-  Basically Basic is a [Jekyll theme](https://jekyllrb.com/docs/themes/) meant as a substitute for the default --- [Minima](https://github.com/jekyll/minima). Conventions and features found there are fully supported by **Basically Basic**, with a few enhancements thrown in for good measure:
+  We are experts in data visualisation and business intelligence. We help companies, organisations and individuals to make the most of their data, with a truly customised and flexible approach:
 
-  - Clean responsive design with six customizable skins
-  - Curriculum Vitæ/Resume layout powered by [JSON data](http://registry.jsonresume.org/)
-  - About page layout
-  - Disqus Comments and Google Analytics support
-  - SEO best practices via [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+  - More than 15 years of experience in complex data analysis
+  - Tableau expertise
+
 actions:
   - label: "Get Started"
     icon: github
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
-    icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
----
+
+
+
+alt_title1: "JUNO"
+sub_title1: "Visualise data in the natural way"
+image1: /assets/images/boards_1600.png
+introduction1: |
+      We are experts in data visualisation and business intelligence. We help companies, organisations and individuals to make the most of their data, with a truly customised and flexible approach:
+
+      - More than 15 years of experience in complex data analysis
+      - Tableau expertise
+actions1:
+      - label: "Get Started"
+        icon: github
+        url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+
+
+alt_title2: "JUNO"
+sub_title2: "Visualise data in the natural way"
+image2: /assets/images/boards_1600.png
+introduction2: |
+              We are experts in data visualisation and business intelligence. We help companies, organisations and individuals to make the most of their data, with a truly customised and flexible approach:
+
+              - More than 15 years of experience in complex data analysis
+              - Tableau expertise
+
+actions2:
+              - label: "Get Started"
+                icon: github
+                url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
