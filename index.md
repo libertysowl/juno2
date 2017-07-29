@@ -14,3 +14,4 @@ actions:
   - label: "Get Started"
     icon: github
     url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
+---
