@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-GB
-title: JUNO
+title: TabZi
 email:
-description: Visualise data in the natural way.
+description: Tips, experiments, wisdom and terrible ideas for Tableau.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://libertysowl.github.io/juno2"
 author:
