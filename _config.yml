@@ -16,7 +16,7 @@
 lang: en-GB
 title: TabZi
 email:
-description: Tips, experiments, wisdom and terrible ideas for Tableau.
+description: Tips, experiments, wisdom and terrible ideas for Tableau (and others).
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://libertysowl.github.io/juno2"
 author:
